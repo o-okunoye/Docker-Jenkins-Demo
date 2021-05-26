@@ -2,7 +2,7 @@ pipeline {
 
   environment {
 
-    registry = "shinaisaac/isaacdocker"
+    registry = "shinaisaac/isaacproject"
 
     registryCredential = 'aa6f8a07-5060-4837-9f0a-e735e865cf08'
 
